@@ -1,0 +1,8 @@
+. clear.scr
+cd build && cmake ../ && make 
+
+cd ../
+
+
+
+

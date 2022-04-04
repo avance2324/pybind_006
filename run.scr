@@ -1,0 +1,8 @@
+source clear.scr
+. build.scr
+
+cd test
+
+python3  test.py
+
+cd ../

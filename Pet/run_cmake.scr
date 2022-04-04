@@ -1,0 +1,6 @@
+source clear.scr
+cd build
+cmake ../ && make
+./Pet
+
+cd ../

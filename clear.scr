@@ -1,0 +1,6 @@
+rm -fr bazel-*
+rm -fr Pet/build/*
+rm -fr Pet/build/*
+rm -fr Pet/build/.cmake*
+rm -fr pybind/build/*
+rm -fr pybind/build/.cmake*

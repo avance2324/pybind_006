@@ -1,0 +1,6 @@
+cd ../
+. clear.scr
+bazel build //Pet:test
+./bazel-bin/Pet/test
+
+cd Pet
